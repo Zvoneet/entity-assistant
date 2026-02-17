@@ -1,2 +1,2 @@
-# business-assistant
-zvoneet business assistant
+# entity-assistant
+zvoneet entity assistant
